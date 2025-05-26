@@ -1,0 +1,8 @@
+db:
+  type: "mysql"
+  config:
+    host: "127.0.0.1"
+    port: "3306"
+    dbName:  "test"
+    user: "root"
+    passWord: "123456"

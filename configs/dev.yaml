@@ -1,0 +1,13 @@
+db:
+  type: "mysql"
+  config:
+    host: "127.0.0.1"
+    port: "3306"
+    db:  "demo"
+    user: "root"
+    password: ""
+    maxCon: 500
+    maxIdle: 20
+app:
+  port: "8899"
+  host: "0.0.0.0"
